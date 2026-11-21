@@ -1,0 +1,16 @@
+export const copy = {
+  hero: { eyebrow: 'Home Menu by Zab  •  Osogbo, Osun State', headline: 'Freshly Made Homemade Meals, Cooked the Way You Like.', subtext: 'From rich local soups and party jollof to creative salads and pastries, Chef Zabb prepares every meal fresh to order, for you or for a crowd. Tell us how you want it, and we make it your way.' },
+  categoriesHeading: 'Explore the Menu',
+  categoriesSub: 'Personal orders and bulk orders, all made fresh with at least 24 hours notice.',
+  featuredHeading: "Chef Zabb's Favourites",
+  featuredSub: 'Tap Add to Cart for a quick order, or Customize to tell us exactly how you want it.',
+  tailoredHeading: 'Your Meal, Your Way',
+  tailoredText: 'Have a special dish in mind, a dietary need, or a meal for a crowd? Chef Zabb offers customer tailored menu options. Send us your idea and we will plan it with you.',
+  reviewsHeading: 'Kind Words from Happy Customers',
+  chefHeading: 'The Face Behind the Brand',
+  chefStory: "Home Menu by Zab is Chef Zabb's kitchen, where every meal is made fresh, with care, and with the flavours of home. Known as the queen of local soups, she also loves creating beautifully plated dishes, fresh salads and pastries. Whether you want a bowl of soup for the family or a tray for a crowd, every order is prepared to professional food safety standards and tailored to your taste.",
+  mission: 'To make freshly prepared homemade meals that feel personal, taste like home, and are safe to enjoy.',
+  vision: 'To be the first name in Osogbo for freshly made homemade meals and creative plates.',
+  certificationsHeading: 'Registered. Certified. Trusted.',
+  certificationsText: 'Your meals are prepared by a registered food business and a food safety certified chef. We take hygiene and professionalism seriously, from the first ingredient to the final pack.',
+}
